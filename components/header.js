@@ -28,7 +28,7 @@ export default function Header() {
               <p className='mr-5 hover:text-gray-900'>홈</p>
             </Link>
 
-            <Link href='https://www.notion.so/Front-end-Developer-3741f0571b174460a88c85424b741b0b'>
+            <Link href='https://glib-fish-229.notion.site/Front-end-Developer-3741f0571b174460a88c85424b741b0b?pvs=4'>
               <p className='mr-5 hover:text-gray-900'>프로젝트</p>
             </Link>
             <Link href='https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=cccodus313@gmail.com' target='_blank'>

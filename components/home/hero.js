@@ -15,7 +15,7 @@ export default function Hero() {
           <br></br>팀에 꼭 필요한 개발자가 되고 싶습니다.
         </p>
         <div className='flex justify-center'>
-          <Link href='https://www.notion.so/Front-end-Developer-3741f0571b174460a88c85424b741b0b'>
+          <Link href='https://glib-fish-229.notion.site/Front-end-Developer-3741f0571b174460a88c85424b741b0b?pvs=4'>
             <p className='btn-project'>프로젝트 보러가기</p>
           </Link>
         </div>
